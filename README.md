@@ -17,10 +17,7 @@ my name is Mahkam and i am a programmer.
 - JavaScript
 - Typescript
 - React
-
-## i'm currently learning 
 - Next.js
-- Redux
 
 ## how to reach me: 
 - Email: mrbrovki@gmail.com
