@@ -16,7 +16,7 @@ my name is Mahkam and i am a programmer.
 - HTML5, CSS3, Sass, CSS Modules
 - JavaScript
 - Typescript
-- React
+- React/Dynamic Routing
 - Next.js
 
 ## how to reach me: 
