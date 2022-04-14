@@ -20,4 +20,4 @@ my name is Mahkam and i am a programmer.
 - Next.js
 
 ## how to reach me: 
-- Email: mrbrovki@gmail.com
+- Email: devbrovki@gmail.com
