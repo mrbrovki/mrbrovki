@@ -13,11 +13,13 @@ my name is Mahkam and i am a programmer.
 
 
 ## my Tech Stack
-- HTML5, CSS3, Sass, CSS Modules
+- HTML5
+- CSS3, Sass, CSS/Sass Modules, Styled Components
 - JavaScript
 - Typescript
-- React/React-Router-DOM
+- React / React-Router-DOM
 - Next.js
+- axios and useSWR fetching
 
 ## how to reach me: 
 - Email: devbrovki@gmail.com
