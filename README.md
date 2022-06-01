@@ -19,6 +19,7 @@ my name is Mahkam and i am a programmer.
 - Typescript
 - React / React-Router-DOM
 - Next.js
+- Redux Toolkit
 - axios and useSWR fetching
 
 ## how to reach me: 
