@@ -6,13 +6,14 @@
 
 ## my Tech Stack
 - HTML5
-- CSS3, Sass, CSS/Sass Modules, Styled Components
+- CSS3, Sass, Styled Components
 - JavaScript
 - Typescript
 - React / React-Router-DOM
 - Next.js
+- Node.js / Express
 - Redux Toolkit
-- axios and useSWR fetching
+- axios / useSWR hook
 
 ## how to reach me: 
 - Email: devbrovki@gmail.com
