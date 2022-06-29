@@ -17,3 +17,4 @@
 
 ## how to reach me: 
 - Email: devbrovki@gmail.com
+- LinkedIn: https://www.linkedin.com/in/mrbrovki
