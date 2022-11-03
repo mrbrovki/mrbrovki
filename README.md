@@ -11,7 +11,6 @@
 - Typescript
 - React / React-Router-DOM
 - Next.js
-- Node.js / Express
 - Redux Toolkit
 - axios / useSWR hook
 
